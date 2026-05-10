@@ -1,4 +1,4 @@
-﻿# Excel Claude + DeepSeek Gateway Kit
+﻿# Office Claude + DeepSeek Gateway Kit
 
 更新时间：2026-05-08
 

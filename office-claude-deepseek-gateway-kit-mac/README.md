@@ -1,4 +1,4 @@
-# Excel Claude + DeepSeek Gateway Kit for macOS
+# Office Claude + DeepSeek Gateway Kit for macOS
 
 更新时间：2026-05-09
 

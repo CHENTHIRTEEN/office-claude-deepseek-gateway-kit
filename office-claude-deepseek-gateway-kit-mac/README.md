@@ -2,7 +2,7 @@
 
 更新时间：2026-05-09
 
-这个目录是面向 macOS 的最小完整包，包含：
+这个目录包含：
 
 - 网关源码（FastAPI）
 - mac 启停脚本（shell）
@@ -49,7 +49,7 @@ chmod +x ./*.sh
 ./run-gateway.sh
 ```
 
-6. 在 Excel Claude 里配置 Gateway：
+6. 在 Office Claude 里配置 Gateway：
 
 - URL: 如果启用了 HTTPS，就填 `https://<你的地址>:8787`
 - Token: 如果 `.env` 已填 `DEEPSEEK_API_KEY`，这里可填任意非空；如果 `.env` 未填，则这里填真实 DeepSeek Key
@@ -71,4 +71,3 @@ chmod +x ./*.sh
 - `.gateway.pid`
 - Python 缓存目录
 
-上传前请再次确认仓库中没有任何真实 API Key。
